@@ -1,0 +1,208 @@
+.geral{
+    display: grid;
+    grid-template-columns: 00px 600px;
+    width: 725px;
+}
+body{
+    background-color: rgb(2, 2, 155);
+}
+
+.bloco1{
+    background-color: red;
+    border-top-left-radius: 80px;
+}
+.imagemprincipal{
+    width: 1000px;
+    height: 725px;
+    margin-left: 500px;
+}
+
+
+.bloco2{
+    background: linear-gradient(65deg, red, rgb(2, 2, 155), rgb(135, 4, 135));
+    width: 500px;
+  
+}
+
+.titulob2{
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.textob2{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.setap1{
+    width: 70px;
+    margin-left: 30px;
+}
+
+/*PAGINA 22222222222222222222 */
+.titulob3{
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.textob3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.bloco3{
+    background: linear-gradient(65deg, red, rgb(2, 2, 155), rgb(135, 4, 135));
+    width: 500px;
+    border-top-left-radius: 80px;
+}
+/*imagens parte2222*/
+.imagemj1{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj2{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj3{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj4{
+    width: 250px;
+    height: 175px;
+    margin: auto;
+}
+.imagemj5{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj6{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj7{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+.imagemj8{
+    width: 250px;
+    height: 200px;
+    margin:auto;
+}
+.bloco4 {
+    display: flex;        
+    flex-wrap: wrap; 
+    gap: 15px; 
+    width: 520px;           
+    margin-left: 700px;          
+}
+
+.bloco4 img {
+    width: 250px;     
+    height: 180px;      
+    object-fit: cover;   
+    margin: 0;
+}
+
+/*pagina 333333333333333333*/
+
+.bloco6{
+    border-top-left-radius: 80px;
+}
+.imagemmessi{
+    width: 600px;
+    height: 450px;
+    margin-left: 750px;
+}
+
+
+.bloco6{
+    border-top-left-radius: 80px;
+    width: 500px;
+}
+
+.titulob6{
+    margin-left: 850px;
+    width: 500px;
+}
+.textob6{
+    margin-top: 100px;
+    margin-left: 800px;
+    width: 500px;
+}
+.setap3{
+    margin-top: 100px;
+    width: 70px;
+    margin-left: 30px;
+}
+.textoblocop3{
+    width: 500px;
+}
+/* pagina 4444444444444 */
+
+.geral3 {
+    display: flex; 
+    max-width: 1100px; 
+}
+
+.bloco8 {
+    background: linear-gradient(65deg, red, rgb(2, 2, 155), rgb(135, 4, 135));
+    width: 750px;           
+    padding: 40px;
+    border-top-left-radius: 80px;
+    box-sizing: border-box;
+    height: 1070px;
+}
+
+.titulob67 {
+    font-size: 50px;
+    margin: 0 0 20px 0;
+}
+
+.setap1 {
+    width: 50px;
+    margin-top: 20px;
+}
+
+
+
+.textoblocop4 {
+    display: grid;
+    grid-template-columns: 620px 400px; 
+    gap: 30px 40px;                    
+    margin-left: 50px;
+    align-content: center;
+}
+
+.linha-contato {
+    display: flex;
+    gap: 15px; 
+    min-width: 200px;
+}
+
+
+.imagens1, .imagens2, .imagens3, .imagens4 {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    margin: 0; 
+}
+
+
+.titulob7, .titulob8, .titulob9, .titulob10 {
+    font-size: 25px; 
+    margin: 0; 
+    color: white;
+    white-space: nowrap; 
+}
+
+.titulob10 a {
+    color: white;
+    text-decoration: none;
+}
